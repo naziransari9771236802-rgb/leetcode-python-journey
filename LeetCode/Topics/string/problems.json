@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String",
+    "tagId": "10"
+  },
+  "updatedAt": "2026-11-22T10:15:00.880Z",
+  "problems": [
+    {
+      "frontendId": "6",
+      "title": "Zigzag Conversion",
+      "slug": "zigzag-conversion",
+      "problemName": "0006-zigzag-conversion",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/zigzag-conversion/",
+      "folderPath": "LeetCode/0006-zigzag-conversion/",
+      "readmePath": "LeetCode/0006-zigzag-conversion/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0006-zigzag-conversion.py",
+          "path": "LeetCode/0006-zigzag-conversion/0006-zigzag-conversion.py",
+          "sha": "4623428e801a3775a5c6b44ab59ac2c9912a835a",
+          "lastSyncedAt": "2026-11-22T10:15:00.880Z"
+        }
+      ]
+    }
+  ]
+}
