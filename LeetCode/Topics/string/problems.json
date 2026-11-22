@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-22T10:15:00.880Z",
+  "updatedAt": "2026-11-22T10:15:08.748Z",
   "problems": [
+    {
+      "frontendId": "5",
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "problemName": "0005-longest-palindromic-substring",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring/",
+      "folderPath": "LeetCode/0005-longest-palindromic-substring/",
+      "readmePath": "LeetCode/0005-longest-palindromic-substring/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0005-longest-palindromic-substring.py",
+          "path": "LeetCode/0005-longest-palindromic-substring/0005-longest-palindromic-substring.py",
+          "sha": "387beb1d8bb54d30a6082003da020281b80a79b6",
+          "lastSyncedAt": "2026-11-22T10:15:08.748Z"
+        }
+      ]
+    },
     {
       "frontendId": "6",
       "title": "Zigzag Conversion",
