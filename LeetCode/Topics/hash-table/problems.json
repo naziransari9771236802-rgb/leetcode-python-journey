@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "hash-table",
+    "name": "Hash Table",
+    "tagId": "6"
+  },
+  "updatedAt": "2026-11-22T10:55:06.207Z",
+  "problems": [
+    {
+      "frontendId": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "problemName": "0001-two-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+      "folderPath": "LeetCode/0001-two-sum/",
+      "readmePath": "LeetCode/0001-two-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0001-two-sum.py",
+          "path": "LeetCode/0001-two-sum/0001-two-sum.py",
+          "sha": "296ac680691dd72f81261d1111b825f8954eb3d7",
+          "lastSyncedAt": "2026-11-22T10:55:06.207Z"
+        }
+      ]
+    }
+  ]
+}
