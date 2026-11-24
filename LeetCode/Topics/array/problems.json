@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-22T10:57:46.992Z",
+  "updatedAt": "2026-11-24T18:44:38.258Z",
   "problems": [
     {
       "frontendId": "1",
@@ -32,6 +32,26 @@
           "path": "LeetCode/0001-two-sum/0001-two-sum.py",
           "sha": "296ac680691dd72f81261d1111b825f8954eb3d7",
           "lastSyncedAt": "2026-11-22T10:57:46.992Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4",
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "problemName": "0004-median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "folderPath": "LeetCode/0004-median-of-two-sorted-arrays/",
+      "readmePath": "LeetCode/0004-median-of-two-sorted-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0004-median-of-two-sorted-arrays.py",
+          "path": "LeetCode/0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.py",
+          "sha": "14ef2aa5487d99767117c6d84227acb8da210b94",
+          "lastSyncedAt": "2026-11-24T18:44:38.258Z"
         }
       ]
     }
