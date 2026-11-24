@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-22T10:15:08.748Z",
+  "updatedAt": "2026-11-24T18:28:23.511Z",
   "problems": [
+    {
+      "frontendId": "3",
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "problemName": "0003-longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      "folderPath": "LeetCode/0003-longest-substring-without-repeating-characters/",
+      "readmePath": "LeetCode/0003-longest-substring-without-repeating-characters/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0003-longest-substring-without-repeating-characters.py",
+          "path": "LeetCode/0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.py",
+          "sha": "5e6ec0acf7464d1d016ded015182e9b7df1c0048",
+          "lastSyncedAt": "2026-11-24T18:28:23.511Z"
+        }
+      ]
+    },
     {
       "frontendId": "5",
       "title": "Longest Palindromic Substring",
