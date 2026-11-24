@@ -5,31 +5,34 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 4 | 1 | 3 | 0 |
+| 5 | 1 | 4 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 3 days | 3 |
+| 1 days | 3 days | 4 |
 
 | Date | Problems |
 | --- | ---: |
 | 2026-11-20 | 1 |
 | 2026-11-21 | 2 |
 | 2026-11-22 | 1 |
+| 2026-11-24 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 2 | 50% |
-| Array | 1 | 25% |
-| Dynamic Programming | 1 | 25% |
-| Hash Table | 1 | 25% |
-| Manacher | 1 | 25% |
-| Math | 1 | 25% |
-| Two Pointers | 1 | 25% |
+| Math | 2 | 40% |
+| String | 2 | 40% |
+| Array | 1 | 20% |
+| Dynamic Programming | 1 | 20% |
+| Hash Table | 1 | 20% |
+| Linked List | 1 | 20% |
+| Manacher | 1 | 20% |
+| Recursion | 1 | 20% |
+| Two Pointers | 1 | 20% |
 
 ## Topics
 
@@ -38,8 +41,10 @@ Contains topicwise list of solved problems.
 | [Array](Topics/array/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Hash Table](Topics/hash-table/) | 1 |
+| [Linked List](Topics/linked-list/) | 1 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 1 |
+| [Math](Topics/math/) | 2 |
+| [Recursion](Topics/recursion/) | 1 |
 | [String](Topics/string/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 1 |
 <!---LeetHub Summary End-->
