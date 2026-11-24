@@ -39,7 +39,9 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 1 |
+| [Array](Topics/array/) | 2 |
+| [Binary Search](Topics/binary-search/) | 1 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Hash Table](Topics/hash-table/) | 2 |
 | [Linked List](Topics/linked-list/) | 1 |
