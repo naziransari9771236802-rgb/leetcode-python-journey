@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 6 | 1 | 5 | 0 |
+| 7 | 1 | 6 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 3 days | 4 |
+| 2 days | 3 days | 5 |
 
 | Date | Problems |
 | --- | ---: |
@@ -19,21 +19,22 @@ Contains topicwise list of solved problems.
 | 2026-11-21 | 2 |
 | 2026-11-22 | 1 |
 | 2026-11-24 | 2 |
+| 2026-11-25 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 3 | 50% |
-| Hash Table | 2 | 33% |
-| Math | 2 | 33% |
-| Array | 1 | 17% |
-| Dynamic Programming | 1 | 17% |
-| Linked List | 1 | 17% |
-| Manacher | 1 | 17% |
-| Recursion | 1 | 17% |
-| Sliding Window | 1 | 17% |
-| Two Pointers | 1 | 17% |
+| String | 4 | 57% |
+| Hash Table | 2 | 29% |
+| Math | 2 | 29% |
+| Array | 1 | 14% |
+| Dynamic Programming | 1 | 14% |
+| Linked List | 1 | 14% |
+| Manacher | 1 | 14% |
+| Recursion | 1 | 14% |
+| Sliding Window | 1 | 14% |
+| Two Pointers | 1 | 14% |
 
 ## Topics
 
@@ -49,6 +50,6 @@ Contains topicwise list of solved problems.
 | [Math](Topics/math/) | 2 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
-| [String](Topics/string/) | 3 |
+| [String](Topics/string/) | 4 |
 | [Two Pointers](Topics/two-pointers/) | 1 |
 <!---LeetHub Summary End-->
