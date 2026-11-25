@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-24T19:04:31.943Z",
+  "updatedAt": "2026-11-25T11:29:17.366Z",
   "problems": [
     {
       "frontendId": "3",
@@ -72,6 +72,14 @@
           "path": "LeetCode/0006-zigzag-conversion/0006-zigzag-conversion.py",
           "sha": "4623428e801a3775a5c6b44ab59ac2c9912a835a",
           "lastSyncedAt": "2026-11-22T10:15:00.880Z"
+        },
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0006-zigzag-conversion.py",
+          "path": "LeetCode/0006-zigzag-conversion/0006-zigzag-conversion.py",
+          "sha": "4623428e801a3775a5c6b44ab59ac2c9912a835a",
+          "lastSyncedAt": "2026-11-25T11:29:17.366Z"
         }
       ]
     }
