@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-24T18:15:37.571Z",
+  "updatedAt": "2026-11-25T11:51:01.378Z",
   "problems": [
     {
       "frontendId": "2",
@@ -44,6 +44,14 @@
           "path": "LeetCode/0007-reverse-integer/0007-reverse-integer.py",
           "sha": "4713027df151211c20ac691515f6e799da20f145",
           "lastSyncedAt": "2026-11-22T10:14:53.482Z"
+        },
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0007-reverse-integer.py",
+          "path": "LeetCode/0007-reverse-integer/0007-reverse-integer.py",
+          "sha": "4713027df151211c20ac691515f6e799da20f145",
+          "lastSyncedAt": "2026-11-25T11:51:01.378Z"
         }
       ]
     }
