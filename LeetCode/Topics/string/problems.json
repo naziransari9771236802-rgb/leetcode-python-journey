@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-25T11:29:17.366Z",
+  "updatedAt": "2026-11-25T18:17:58.934Z",
   "problems": [
     {
       "frontendId": "3",
@@ -80,6 +80,26 @@
           "path": "LeetCode/0006-zigzag-conversion/0006-zigzag-conversion.py",
           "sha": "4623428e801a3775a5c6b44ab59ac2c9912a835a",
           "lastSyncedAt": "2026-11-25T11:29:17.366Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "8",
+      "title": "String to Integer (atoi)",
+      "slug": "string-to-integer-atoi",
+      "problemName": "0008-string-to-integer-atoi",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/string-to-integer-atoi/",
+      "folderPath": "LeetCode/0008-string-to-integer-atoi/",
+      "readmePath": "LeetCode/0008-string-to-integer-atoi/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0008-string-to-integer-atoi.py",
+          "path": "LeetCode/0008-string-to-integer-atoi/0008-string-to-integer-atoi.py",
+          "sha": "8ade2c9718da3299511f2ef91bbe1f8ba5c998e3",
+          "lastSyncedAt": "2026-11-25T18:17:58.934Z"
         }
       ]
     }
